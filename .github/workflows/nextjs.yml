@@ -3,7 +3,6 @@ name: Deploy Next.js site to Pages (Preview or Production)
 on:
   # Runs on push to any branch
   push:
-    branches: ["*"]
 
   # Allows manual triggering
   workflow_dispatch:
